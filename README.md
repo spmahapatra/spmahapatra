@@ -126,16 +126,6 @@ Currently working as **Senior System Engineer / SRE Lead** at **NAGRA** in Madri
 
 ---
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| AWS Certified Solutions Architect – Associate | Amazon Web Services |
-| VMware Certified Professional 5.0 | VMware |
-| Red Hat Certified Engineer (RHCE) – Enterprise Linux 5.0 | Red Hat |
-
----
-
 ## Currently Exploring
 
 Expanding into MLOps and data platform services on AWS — applying existing DevOps and infrastructure knowledge to machine learning workflows.
@@ -148,17 +138,16 @@ Expanding into MLOps and data platform services on AWS — applying existing Dev
 ![Lake Formation](https://img.shields.io/badge/Lake_Formation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Step Functions](https://img.shields.io/badge/Step_Functions-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
+
 ---
 
-## GitHub Stats
+## Certifications
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spmahapatra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spmahapatra&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+| Certification | Issuer |
+|---|---|
+| AWS Certified Solutions Architect – Associate | Amazon Web Services |
+| VMware Certified Professional 5.0 | VMware |
+| Red Hat Certified Engineer (RHCE) – Enterprise Linux 5.0 | Red Hat |
 
 ---
 
@@ -168,6 +157,8 @@ Expanding into MLOps and data platform services on AWS — applying existing Dev
 Biju Patnaik University of Technology (BPUT), Odisha, India — 2006
 
 ---
+
+
 
 <div align="center">
 
