@@ -19,10 +19,10 @@
   Published on [Dev.to](https://dev.to/spmahapatra) · [GitHub Pages](https://spmahapatra.github.io)
 
   <!-- ARTICLES:START -->
-  | Article | Topics |
-  |---|---|
-  | *More coming soon* | |
-  <!-- ARTICLES:END -->
+| Article | Topics |
+|---|---|
+| [Installing Debian on WSL2 in Windows 11](https://spmahapatra.github.io/install-debian-wsl2-windows-11) | `wsl2` `debian` `windows` `devops` |
+<!-- ARTICLES:END -->
 
   ## 📌 What I Work On
 
