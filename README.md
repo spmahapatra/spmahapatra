@@ -30,8 +30,3 @@
   - **Infrastructure as code** — Terraform modules, Kubernetes operators, GitOps workflows
   - **Developer experience** — internal tooling, deployment pipelines, reducing toil
 
-  ## 🤝 Let's Connect
-
-  - 🌐 [spmahapatra.github.io](https://spmahapatra.github.io)
-  - 🐦 [dev.to/spmahapatra](https://dev.to/spmahapatra)
-  - 📧 sp.mahapatra@gmail.com
