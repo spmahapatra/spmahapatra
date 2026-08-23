@@ -16,7 +16,7 @@
 
   I write technical deep-dives for DevOps and platform engineers — production incidents over hypotheticals, real error messages over hand-wavy explanations.
 
-  Published on [Dev.to](https://dev.to/spmahapatra) · [GitHub Pages](https://spmahapatra.github.io)
+  Published on · [GitHub Pages](https://spmahapatra.github.io)
 
   <!-- ARTICLES:START -->
 | Article | Topics |
