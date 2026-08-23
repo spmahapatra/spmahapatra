@@ -23,6 +23,7 @@
 |---|---|
 | [Installing Debian on WSL2 in Windows 11](https://spmahapatra.github.io/install-debian-wsl2-windows-11) | `wsl2` `debian` `windows` `devops` |
 | [Install Docker Engine on Debian](https://spmahapatra.github.io/install-docker-engine-on-debian) | `docker` `debian` `containers` `linux` |
+| [Installing Minikube on Debian](https://spmahapatra.github.io/installing-minikube-on-debian) | `kubernetes` `minikube` `debian` `docker` |
 <!-- ARTICLES:END -->
 
   ## 📌 What I Work On
