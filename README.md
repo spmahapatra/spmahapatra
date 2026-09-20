@@ -24,6 +24,7 @@
 | [Installing Debian on WSL2 in Windows 11](https://spmahapatra.github.io/install-debian-wsl2-windows-11) | `wsl2` `debian` `windows` `devops` |
 | [Install Docker Engine on Debian](https://spmahapatra.github.io/install-docker-engine-on-debian) | `docker` `debian` `containers` `linux` |
 | [Installing Minikube on Debian](https://spmahapatra.github.io/installing-minikube-on-debian) | `kubernetes` `minikube` `debian` `docker` |
+| [Part 1.5: Optimizing Dockerfiles with Multi-Stage Builds](https://spmahapatra.github.io/optimizing-dockerfiles-with-multi-stage-builds) | `docker` `devops` `tutorial` `performance` |
 | [Part 1 Dockerising and Standardising Compose](https://spmahapatra.github.io/part-1-dockerising-and-standardising-compose) | `docker` `devops` `engineering` `tutorial` |
 <!-- ARTICLES:END -->
 
