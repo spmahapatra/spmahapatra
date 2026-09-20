@@ -1,22 +1,27 @@
-  ---
-  # Hi, I'm Sibaprasad! 👋
+# Hi, I'm Sibaprasad (Siba) 👋
+  
+**Senior Cloud DevOps & SRE | AWS Architect | Automation Specialist**
+  
+With 17+ years of experience, I specialize in the gap between "it works in staging" and "it's reliable at 2am". I build scalable, secure, and compliant cloud platforms with a heavy focus on release readiness, infrastructure-as-code, and proactive observability. 
+  
+## 🚀 High-Impact Engineering
+- **Scale:** Managed and optimized 8,000+ Linux server fleets (AOL) and migrated 200+ servers across AWS accounts with seamless DNS/RDS transitions.
+- **Observability & Serverless:** Built real-time, serverless production traffic simulators (AWS Lambda, S3, CloudWatch, OpsGenie) and automated OpenSearch alerting pipelines using Python.
+- **DevSecOps:** Hardened cloud environments leveraging CrowdStrike Falcon and automated branch-based deployment testing using Ansible & Docker.
+- **Disaster Recovery:** Architected cross-region Terraform infrastructures with 1-hour RPO limits.
+  
+## 🛠️ Tech Stack & Tooling
+- **Cloud & Orchestration:** AWS, Kubernetes (EKS), Docker, VMware
+- **Infrastructure as Code:** Terraform, Ansible, Python, Bash
+- **Observability:** Prometheus, Grafana, ELK/OpenSearch, Datadog, SumoLogic
+- **Security & Edge:** CrowdStrike Falcon, Cloudflare
+- **Certifications:** AWS Certified Solutions Architect (Associate), RHCE, VCP
+  
+## ✍️ Technical Deep-Dives
+I write for platform engineers — focusing on production incidents over hypotheticals, and real error logs over hand-wavy theory.
+  
+Published on · [GitHub Pages](https://spmahapatra.github.io)
 
-  Senior SRE & Platform Engineer | DevOps Practitioner
-
-  With 17 years of experience running production infrastructure, I specialize in the gap between "it works in staging" and "it's reliable at 2am" — release readiness, observability, and the automation that
-  makes both possible.
-
-  ## 🛠️ Tech Stack & Expertise
-
-  - I work extensively with **Kubernetes**, **AWS**, **Terraform**, CI/CD pipelines (GitHub Actions, Jenkins), and observability stacks (Prometheus, Grafana, OpenTelemetry).
-  - My current focus is platform reliability engineering — building the internal tooling and guardrails that let product teams deploy fast without waking anyone up.
-  - Day-to-day I own platform reliability across multiple production environments at **NAGRA**, where I work on multi-cloud infrastructure and SRE practices at scale.
-
-  ## ✍️ Writing
-
-  I write technical deep-dives for DevOps and platform engineers — production incidents over hypotheticals, real error messages over hand-wavy explanations.
-
-  Published on · [GitHub Pages](https://spmahapatra.github.io)
 
   <!-- ARTICLES:START -->
 | Article | Topics |
@@ -27,10 +32,3 @@
 | [Part 1 Dockerising and Standardising Compose](https://spmahapatra.github.io/part-1-dockerising-and-standardising-compose) | `docker` `devops` `engineering` `tutorial` |
 | [Part 2: Optimizing Dockerfiles with Multi-Stage Builds](https://spmahapatra.github.io/optimizing-dockerfiles-with-multi-stage-builds) | `docker` `devops` `tutorial` `performance` |
 <!-- ARTICLES:END -->
-
-  ## 📌 What I Work On
-
-  - **Platform reliability** — SLOs, incident response, runbooks that actually get tested
-  - **Infrastructure as code** — Terraform modules, Kubernetes operators, GitOps workflows
-  - **Developer experience** — internal tooling, deployment pipelines, reducing toil
-
