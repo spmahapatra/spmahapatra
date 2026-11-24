@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spmahapatra.github.io">
-    <img src="https://spmahapatra.github.io/assets/profile-banner.svg" width="100%" alt="SPMAHAPATRA(9) — Sibaprasad Mahapatra (Siba) — Senior Cloud, DevOps & SRE Engineer" />
+    <img src="./assets/profile-banner.svg" width="100%" alt="SPMAHAPATRA(9) — Sibaprasad Mahapatra (Siba) — Senior Cloud, DevOps & SRE Engineer" />
   </a>
 </p>
 
