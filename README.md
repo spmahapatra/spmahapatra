@@ -1,35 +1,20 @@
-# Hi, I'm Sibaprasad (Siba) 👋
-  
-**Senior Cloud DevOps & SRE | AWS Architect | Automation Specialist**
-  
-With 17+ years of experience, I specialize in the gap between "it works in staging" and "it's reliable at 2am". I build scalable, secure, and compliant cloud platforms with a heavy focus on release readiness, infrastructure-as-code, and proactive observability. 
-  
-## 🚀 High-Impact Engineering
-- **Scale:** Managed and optimized 8,000+ Linux server fleets (AOL) and migrated 200+ servers across AWS accounts with seamless DNS/RDS transitions.
-- **Observability & Serverless:** Built real-time, serverless production traffic simulators (AWS Lambda, S3, CloudWatch, OpsGenie) and automated OpenSearch alerting pipelines using Python.
-- **DevSecOps:** Hardened cloud environments leveraging CrowdStrike Falcon and automated branch-based deployment testing using Ansible & Docker.
-- **Disaster Recovery:** Architected cross-region Terraform infrastructures with 1-hour RPO limits.
-  
-## 🛠️ Tech Stack & Tooling
-- **Cloud & Orchestration:** AWS, Kubernetes (EKS), Docker, VMware
-- **Infrastructure as Code:** Terraform, Ansible, Python, Bash
-- **Observability:** Prometheus, Grafana, ELK/OpenSearch, Datadog, SumoLogic
-- **Security & Edge:** CrowdStrike Falcon, Cloudflare
-- **Certifications:** AWS Certified Solutions Architect (Associate), RHCE, VCP
-  
-## ✍️ Technical Deep-Dives
-I write for platform engineers — focusing on production incidents over hypotheticals, and real error logs over hand-wavy theory.
-  
-Published on · [GitHub Pages](https://spmahapatra.github.io)
+<p align="center">
+  <a href="https://spmahapatra.github.io">
+    <img src="https://spmahapatra.github.io/assets/profile-banner.svg" width="100%" alt="SPMAHAPATRA(9) — Sibaprasad Mahapatra (Siba) — Senior Cloud, DevOps & SRE Engineer" />
+  </a>
+</p>
 
+I design, migrate, and operate high-availability cloud infrastructure and Kubernetes platforms—focusing on repeatable Terraform/Ansible automation, full-stack SRE observability, and compliance-ready production security.
 
-  <!-- ARTICLES:START -->
-| Article | Topics |
-|---|---|
-| [Part 1 Dockerising and Standardising Compose (`part-1-dockerising-and-standardising-compose(7)`)](https://spmahapatra.github.io/part-1-dockerising-and-standardising-compose) | `docker` `devops` `engineering` `tutorial` |
-| [Part 2: Optimizing Dockerfiles with Multi-Stage Builds (`part-2-optimizing-dockerfiles-with-multi-stage-builds(7)`)](https://spmahapatra.github.io/part-2-optimizing-dockerfiles-with-multi-stage-builds) | `docker` `devops` `tutorial` `performance` |
-| [Installing Debian on WSL2 in Windows 11 (`install-debian-wsl2-windows-11(7)`)](https://spmahapatra.github.io/install-debian-wsl2-windows-11) | `wsl2` `debian` `windows` `devops` |
-| [Install Docker Engine on Debian (`install-docker-engine-on-debian(7)`)](https://spmahapatra.github.io/install-docker-engine-on-debian) | `docker` `debian` `containers` `linux` |
-| [Installing Minikube on Debian (`installing-minikube-on-debian(7)`)](https://spmahapatra.github.io/installing-minikube-on-debian) | `kubernetes` `minikube` `debian` `docker` |
-| [Part 3: Building the App & Caching for Data Latency (`part-3-caching-api-calls-efficiently(7)`)](https://spmahapatra.github.io/part-3-caching-api-calls-efficiently) | `flask` `redis` `caching` `sre` |
-<!-- ARTICLES:END -->
+### What I Do
+
+* **Cloud Architecture & Zero-Downtime Migrations:** Architecting multi-region **AWS** environments (`VPC`, `EC2`, `RDS`, `S3`, `IAM`, `Lambda`, `Route 53`, `SSM`, `AWS Backup`) and executing complex physical-to-cloud and cross-account migrations (`200+` production servers, databases, and CI/CD suites) with `1-hour RPO` warm-standby disaster recovery and continuous FinOps cost governance (`CloudHealth`, `Trusted Advisor`).
+* **Kubernetes, Containers & Large-Scale Linux Operations:** Deploying and scaling production **Kubernetes** clusters and **Docker** workloads alongside enterprise **Linux** (`RHEL`, `CentOS`, `Ubuntu`) and Windows Server fleets (`300+` application servers operated within an `8,000+` node production environment).
+* **Infrastructure as Code & CI/CD Delivery Pipelines:** Automating repeatable infrastructure provisioning with **Terraform**, **AWS CloudFormation**, **Ansible**, and **Chef**, paired with **Jenkins**, **Git**, **Bitbucket**, and **GitHub Actions** pipelines featuring isolated branch-based Docker/Ansible pre-merge test environments and automated release workflows.
+* **SRE Observability, Incident Alerting & Workflow Automation:** Building proactive telemetry and log analytics pipelines across **Prometheus**, **Grafana**, **AWS OpenSearch / OpenDistro**, **ELK**, **Icinga2**, **SumoLogic**, **Datadog**, and **CloudWatch**—including declarative **Python & YAML** OpenSearch alerting engines, serverless **AWS Lambda** synthetic API monitors, and automated on-call routing (`OpsGenie`, `GoAlert`, `Mattermost`).
+* **DevSecOps, Compliance & Platform Hardening:** Leading technical controls for **SOC 2** and **HITRUST CSF** compliance, hardening `250+` multi-region nodes to **CIS Level 2** benchmarks via Ansible, enforcing zero-secret workflows with **AWS Secrets Manager** and audited RDS access, automating patch governance (`AWS SSM & Config`), and securing workloads with **CrowdStrike Falcon** and **Cloudflare**.
+
+---
+
+> ### 📘 Technical Blog & Engineering Runbooks → **[spmahapatra.github.io](https://spmahapatra.github.io)**
+> Hands-on architecture deep-dives, production incident postmortems, and step-by-step Linux, Docker, and Kubernetes runbooks (`SPMAHAPATRA(9)` interactive manual index).
